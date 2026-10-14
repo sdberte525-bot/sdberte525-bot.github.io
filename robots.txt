@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sdberte525-bot.github.io/sitemap.xml

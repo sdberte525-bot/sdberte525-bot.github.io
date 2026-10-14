@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/2n5qeheznvl4u.js"
+6:I[22016,["$5"],""]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+:HL["/_next/static/chunks/3kphj8sga7nfj.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-[100svh] max-w-[78rem] flex-col justify-center px-5 sm:px-8 lg:px-12","children":[["$","p",null,{"className":"text-sm text-slate","children":"Page not found"}],["$","h1",null,{"className":"display mt-4 text-[3rem] leading-none sm:text-[4.5rem]","children":"This page doesn’t exist."}],["$","p",null,{"className":"mt-6 max-w-md text-charcoal/85","children":"The address may be mistyped, or the page may have moved."}],["$","$L6",null,{"href":"/","className":"mt-10 inline-flex h-12 w-fit items-center bg-navy px-7 text-sm font-medium text-paper transition-colors hover:bg-navy-deep","children":"Go to the home page"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$8"}}]]
+9:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3kphj8sga7nfj.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"iZFlRW_variable PWoSZq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js')"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Salvatore Berte\",\"url\":\"https://sdberte525-bot.github.io\",\"image\":\"https://sdberte525-bot.github.io/opengraph-image.jpg\",\"email\":\"mailto:sdberte525@gmail.com\",\"sameAs\":[\"https://www.linkedin.com/in/salvatore-berte-50bb72257/\"],\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Boca Raton\",\"addressRegion\":\"FL\",\"addressCountry\":\"US\"},\"alumniOf\":[{\"@type\":\"CollegeOrUniversity\",\"name\":\"Stonehill College\"}],\"affiliation\":{\"@type\":\"CollegeOrUniversity\",\"name\":\"Boston College\"},\"knowsAbout\":[\"Fixed income securities\",\"Monetary policy\",\"Macroeconomic research\",\"Investment analysis\",\"Econometrics\",\"Financial modeling\"]}"}}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:bg-navy focus:px-4 focus:py-2 focus:text-sm focus:text-paper","children":"Skip to content"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-[100svh] max-w-[78rem] flex-col justify-center px-5 sm:px-8 lg:px-12","children":[["$","p",null,{"className":"text-sm text-slate","children":"Page not found"}],["$","h1",null,{"className":"display mt-4 text-[3rem] leading-none sm:text-[4.5rem]","children":"This page doesn’t exist."}],["$","p",null,{"className":"mt-6 max-w-md text-charcoal/85","children":"The address may be mistyped, or the page may have moved."}],["$","$L6",null,{"href":"/","className":"mt-10 inline-flex h-12 w-fit items-center bg-navy px-7 text-sm font-medium text-paper transition-colors hover:bg-navy-deep","children":"Go to the home page"}]]}],[]]}]]}]]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#14263d"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Salvatore Berte | Finance & Applied Economics"}],["$","meta","1",{"name":"description","content":"Explore the professional background of Salvatore Berte, a finance and applied economics professional focused on fixed income, investment research, and financial markets."}],["$","meta","2",{"name":"application-name","content":"Salvatore Berte"}],["$","link","3",{"rel":"author","href":"https://www.linkedin.com/in/salvatore-berte-50bb72257/"}],["$","meta","4",{"name":"author","content":"Salvatore Berte"}],["$","meta","5",{"name":"keywords","content":"Salvatore Berte,finance,applied economics,fixed income,investment research,asset management,Boston College,Stonehill College"}],["$","meta","6",{"name":"creator","content":"Salvatore Berte"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","link","8",{"rel":"canonical","href":"https://sdberte525-bot.github.io"}],["$","meta","9",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","10",{"property":"og:title","content":"Salvatore Berte | Finance & Applied Economics"}],["$","meta","11",{"property":"og:description","content":"Explore the professional background of Salvatore Berte, a finance and applied economics professional focused on fixed income, investment research, and financial markets."}],["$","meta","12",{"property":"og:url","content":"https://sdberte525-bot.github.io"}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}],null]}],"$L2b"]}],"p":"$@2c","v":null,"s":"$8"}},"a":"$@2d","u":"$@2e","b":"1aRt4-24oOvfEY6_GBLtw"}
+2f:I[27201,["$2"],"IconMark"]
+f:null
+15:["$","meta","13",{"property":"og:site_name","content":"Salvatore Berte"}]
+16:["$","meta","14",{"property":"og:locale","content":"en_US"}]
+17:["$","meta","15",{"property":"og:image","content":"https://sdberte525-bot.github.io/opengraph-image.jpg?opengraph-image.2x6f4y8k_zoww.jpg"}]
+18:["$","meta","16",{"property":"og:image:type","content":"image/jpeg"}]
+19:["$","meta","17",{"property":"og:image:width","content":"1200"}]
+1a:["$","meta","18",{"property":"og:image:height","content":"630"}]
+1b:["$","meta","19",{"property":"og:image:alt","content":"Salvatore Berte: Finance, Applied Economics and Investment Research. Portrait with the headline \"Understanding markets. Analyzing risk. Finding opportunity.\"\n"}]
+1c:["$","meta","20",{"property":"og:type","content":"profile"}]
+1d:["$","meta","21",{"property":"profile:first_name","content":"Salvatore"}]
+1e:["$","meta","22",{"property":"profile:last_name","content":"Berte"}]
+1f:["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}]
+20:["$","meta","24",{"name":"twitter:title","content":"Salvatore Berte | Finance & Applied Economics"}]
+21:["$","meta","25",{"name":"twitter:description","content":"Explore the professional background of Salvatore Berte, a finance and applied economics professional focused on fixed income, investment research, and financial markets."}]
+22:["$","meta","26",{"name":"twitter:image","content":"https://sdberte525-bot.github.io/twitter-image.jpg?twitter-image.2x6f4y8k_zoww.jpg"}]
+23:["$","meta","27",{"name":"twitter:image:alt","content":"Salvatore Berte: Finance, Applied Economics and Investment Research. Portrait with the headline \"Understanding markets. Analyzing risk. Finding opportunity.\"\n"}]
+24:["$","meta","28",{"name":"twitter:image:type","content":"image/jpeg"}]
+25:["$","meta","29",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","30",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","31",{"rel":"icon","href":"/favicon.ico?favicon.0kyutqlx1dk8k.ico","sizes":"48x48","type":"image/x-icon"}]
+28:["$","link","32",{"rel":"icon","href":"/icon.png?icon.1hcn36foecc7s.png","sizes":"64x64","type":"image/png"}]
+29:["$","link","33",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1e2-gnmgr0gi7.png","sizes":"180x180","type":"image/png"}]
+2a:["$","$L2f","34",{}]
+2b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+2e:true
+8:C
+2d:0
+a:"$undefined"
+7:"$undefined"
+2c:"$undefined"
+10:"$undefined"
